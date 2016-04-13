@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">We</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_log_in_screen">LogInScreen</string>
+    <string name="title_activity_create_account">CreateAccount</string>
+    <string name="title_activity_account_data">AccountData</string>
+    <string name="title_activity_edit_account_data">EditAccountData</string>
+    <string name="title_activity_change_password">ChangePassword</string>
+    <string name="title_activity_delete_account">DeleteAccount</string>
+    <string name="title_activity_received_messages">ReceivedMessages</string>
+    <string name="title_activity_send_message">SendMessage</string>
+    <string name="title_activity_edit_received_messages">EditReceivedMessages</string>
+    <string name="title_activity_sent_messages">SentMessages</string>
+    <string name="title_activity_edit_sent_messages">EditSentMessages</string>
+    <string name="title_activity_log_in">LogIn</string>
+</resources>

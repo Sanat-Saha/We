@@ -1,0 +1,38 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.sanatkumarsaha.we.AccountData">
+    <group android:checkableBehavior="none">
+        <item
+        android:id="@+id/edit_account_data"
+        android:title="Edit Account Data"
+        android:orderInCategory="1"
+        app:showAsAction="never" />
+        <item
+            android:id="@+id/change_password"
+            android:title="Change Account Password"
+            android:orderInCategory="2"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/delete_account"
+            android:title="Delete My Account"
+            android:orderInCategory="3"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/received_messages"
+            android:title="Received Messages"
+            android:orderInCategory="4"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/sent_messages"
+            android:title="Sent Messages"
+            android:orderInCategory="5"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/send_message"
+            android:title="Send Message"
+            android:orderInCategory="6"
+            app:showAsAction="never" />
+
+    </group>
+</menu>
